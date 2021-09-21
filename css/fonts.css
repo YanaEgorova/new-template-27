@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/RobotoCondensed-Light.eot');
+    src: url('../fonts/RobotoCondensed-Light.eot') format('embedded-opentype'),
+        url('../fonts/RobotoCondensed-Light.woff2') format('woff2'),
+        url('../fonts/RobotoCondensed-Light.woff') format('woff'),
+        url('../fonts/RobotoCondensed-Light.ttf') format('truetype'),
+        url('../fonts/RobotoCondensed-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Black.eot');
+    src: url('../fonts/RobotoSlab-Black.eot') format('embedded-opentype'),
+        url('../fonts/RobotoSlab-Black.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Black.woff') format('woff'),
+        url('../fonts/RobotoSlab-Black.ttf') format('truetype'),
+        url('../fonts/RobotoSlab-Black.svg') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
